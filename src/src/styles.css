@@ -1,5 +1,4 @@
 .App {
-  font-family: sans-serif;
   text-align: center;
 }
 
@@ -9,7 +8,10 @@
   margin-top: 10px;
   width: 50%;
 }
-
+body{
+  background-color:  #0e5e9f !important;
+  font-family: "Open Sans";
+}
 .form__field {
   font-family: inherit;
   border: 0;
